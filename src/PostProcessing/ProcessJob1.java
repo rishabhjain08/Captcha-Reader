@@ -4,7 +4,7 @@ import PostProcessing.Job.Pockets;
 import java.awt.Color;
 import java.awt.image.BufferedImage;
 
-public class ProcessJob {
+public class ProcessJob1 {
 
     private Job buff;
     private BufferedImage img;
